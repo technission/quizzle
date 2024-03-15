@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143113115194",
+    "project_id": "quizzle-1b81c",
+    "storage_bucket": "quizzle-1b81c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143113115194:android:899665f1000b3a6dcdc703",
+        "android_client_info": {
+          "package_name": "com.example.quizzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8oo2npu0FCqyhNEKh3rswdTNHI6K5qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
